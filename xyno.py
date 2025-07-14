@@ -3,7 +3,7 @@ Public Archive Xyno Build: Last edited 2025/07/14 12:19PM UTC
 
 This code is for educational purposes only. Do not use it for malicious intent.
 '''
-__BOTTOKEN__ = input('Bot Token')
+__BOTTOKEN__ = input('Bot Token:')
 
 
 import discord, asyncio
